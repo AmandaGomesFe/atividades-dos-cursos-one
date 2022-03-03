@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha(){
+
+        document.write("<br>")
+
+    }
+
+    function mostra(frase){
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var anoAtual = 2022
+    var anoInicio = 1500
+
+    var anos = (anoAtual - anoInicio)
+
+    mostra("Se passaram " + anos + " anos desde 1500.")
+
+    var mediaDeAnos = 28
+    var gerações = (anos / mediaDeAnos)
+
+    mostra("Em média, um casal tem filhos quando atinge a idade de 28 anos, então durante " + anos + " anos se passaram " + Math.round(gerações) + " gerações, em média.")
+
+</script>    
