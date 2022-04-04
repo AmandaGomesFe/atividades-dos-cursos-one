@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para seus cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaGomesFe/atividades-dos-cursos-one.git"
+  },
+  "author": "Amanda",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AmandaGomesFe/atividades-dos-cursos-one/issues"
+  },
+  "homepage": "https://github.com/AmandaGomesFe/atividades-dos-cursos-one#readme"
+}
